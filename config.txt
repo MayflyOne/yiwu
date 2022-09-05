@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "3cf284344a8a00eb174218a7b5d4f570",
 # 模板消息id
-"template_id": "NYWv1_YHIm_MeTk_sm9Eo8QxfJMzbuY7aJp70_hFiN8",
+"template_id": "E3qqAp8PCIes4A-dIPjT4DoP0W4rwkgzsuhKvUtdCno",
 # 信息配置
 # 和风天气apikey
 "weather_key": "c7d9e3ef99744e6a851a2f6c17fdf9cd",
